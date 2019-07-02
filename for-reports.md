@@ -15,7 +15,7 @@ Congratulations and apologies for reporting to me. This is a outline of some of 
 * Long term happiness is more important than most short term wins at the expense of peoples sanity.
 * I bias towards action and ownership of ideas without needing to get buy in from everyone.
 * The only caveat to the above is understanding the risks of what could go wrong with a decision. Understanding the risk of decision helps us evaluate how critical a decision is.
-* I value incremental correctness and gradualling improving a solution over big bang development.
+* I value incremental correctness and gradually improving a solution over big bang development.
 * Assume the best intent. Trust and verify.
 
 ## Feedback
@@ -27,7 +27,7 @@ This is essential to helping everyone in a team grow:
 
 ## Meetings
 
-Let's make sure each meeting:
+Let's make sure each meeting values the particpants time:
 * Has a clear agenda circulated before hand.
 * Has working notes that everyone in the meeting can collaborate on in the meeting.
 * Clear purpose and action items coming out of the meeting.
