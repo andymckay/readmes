@@ -5,7 +5,7 @@
 - How do you like feedback?
 - How do you prefer to receive recognition?
 - How do you learn new things?
-- What can I do too help you learn new things?
+- What can I do to help you learn new things?
 - What makes 1:1 the most valuable to you?
 - What are you goals for the next 3 months?
 - What are you goals for this year?
