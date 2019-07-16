@@ -21,14 +21,13 @@ Congratulations and apologies for reporting to me. This is a outline of some of 
 
 ## Feedback
 
-This is essential to helping everyone in a team grow:
+* I'm bad at hiding my emotions visually. 
 * I'd like to know how you like feedback, good and bad.
 * I tend to find good feedback a bit embarrasing.
 * I find I need to process feedback that might be construed as negative. I welcome it and need more of it, but admit it might take me time to process some times.
 
 ## Meetings
 
-Let's make sure each meeting values the particpants time:
 * Has a clear agenda circulated before hand.
 * Has working notes that everyone in the meeting can collaborate on in the meeting.
 * Clear purpose and action items coming out of the meeting.
