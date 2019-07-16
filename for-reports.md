@@ -6,9 +6,10 @@ Congratulations and apologies for reporting to me. This is a outline of some of 
 ## Communication
 
 * I have a strict line between work and not work. If it's urgent, text me. If I send you something out of hours or on a weekend I'm not expecting a reply unless I explicitly say so.
-* I take vacations, you should too. When I'm on vacation I don't work at all.
+* I take vacations, you should too. When I'm on vacation I **usually** don't work at all.
 * I will try and adapt to how you would like to communicate. 
-* I'm introverted and prefer written communication, but understand the value of face-to-face chat. Sometimes it takes me time to process things and that means I might have to get back to you.
+* I'm introverted and prefer written communication, but understand the value of face-to-face chat. 
+* Sometimes it takes me time to process things and that means I might have to get back to you.
 
 ## Principles
 
