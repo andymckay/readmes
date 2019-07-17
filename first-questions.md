@@ -8,7 +8,7 @@ Right now:
 Getting to know each other:
 
 - What makes you grumpy?
-- How will I know when you are grump?
+- How will I know when you are grumpy?
 - How do you like feedback?
 - How do you prefer to receive recognition?
 - How do you learn new things?
