@@ -19,7 +19,6 @@ Congratulations and apologies for reporting to me. This is a outline of some of 
 * I bias towards action and ownership of ideas without needing to get buy in from everyone.
 * The only caveat to the above is understanding the risks of what could go wrong with a decision. Understanding the risk of decision helps us evaluate how critical a decision is.
 * I value incremental correctness and gradually improving a solution over big bang development.
-* Assume the best intent. Trust and verify.
 
 ## Feedback
 
