@@ -17,6 +17,6 @@ Getting to know each other:
 
 The future:
 
-- What are you goals for the next 3 months?
-- What are you goals for this year?
-- What do you need from your manager?
+- What are your goals for the next 3 months?
+- What are your goals for this year?
+- What do your need from your manager?
