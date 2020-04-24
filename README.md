@@ -5,4 +5,4 @@ This my attempt at some sort of manager README's. They are pretty basic at this 
 - [First questions to ask in a 1:1](first-questions.md)
 - [For people who report to me](for-reports.md)
 - [For people who I report to](for-managers.md)
-
+- [General about me](about-me.md)
