@@ -17,8 +17,10 @@ Congratulations and apologies for reporting to me. This is a outline of some of 
 
 * Long term happiness is more important than most short term wins at the expense of peoples well being.
 * I bias towards action and ownership of ideas without needing to get buy in from everyone.
-* The only caveat to the above is understanding the risks of what could go wrong with a decision. Understanding the risk of decision helps us evaluate how critical a decision is.
+* I bias towards shipping code and maybe having mistakes over being more cautions.
+* The only caveat to the above is understanding the risks of what could go wrong shipping. Understanding the risk behind changes and decisions, informs our deployment speed.
 * I value incremental correctness and gradually improving a solution over big bang development.
+* I'm totally bought into the growth mindset.
 
 ## Feedback
 
