@@ -1,6 +1,7 @@
 Right now:
 
 - How should I pronounce your name?
+- What are your preferred gender pronouns?
 - What times do you work?
 - How do I communicate with you when you might be out of the office?
 - Is there anything concerning you right now?
