@@ -20,4 +20,4 @@ The future:
 
 - What are your goals for the next 3 months?
 - What are your goals for this year?
-- What do your need from your manager?
+- What do you need from your manager?
