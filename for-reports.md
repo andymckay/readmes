@@ -5,8 +5,8 @@ Congratulations and apologies for reporting to me. This is a outline of some of 
 
 ## Communication
 
-* Message me any time on Slack. If I'm around I'll answer.
-* I have a strict line between work and not work. If it's urgent, text me. 
+* Message me any time on Slack. If I'm around I'll answer. I do not have slack notifications on, so don't feel bad about it.
+* I have a strict line between work and not work. If it's urgent, page me: `.pager trigger andymckay`.
 * If I send you something out of hours or on a weekend I'm not expecting a reply unless I explicitly say so.
 * I take vacations, you should too. When I'm on vacation I **usually** don't work at all.
 * I will try and adapt to how you would like to communicate. 
