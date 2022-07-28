@@ -2,6 +2,7 @@ Congratulations and apologies for reporting to me. This is a outline of some of 
 
 * I'm British but live in Canada and have for 20+ years.
 * I can quote lots of British "humour" like Monty Python and Douglas Adams. I'm sorry.
+* See https://github.com/andymckay/readmes/blob/master/about-me.md for more.
 
 ## Communication
 
@@ -24,10 +25,10 @@ Congratulations and apologies for reporting to me. This is a outline of some of 
 
 ## Feedback
 
-* I'm tend to show my emotions visually, this can be good and bad.
+* I tend to show my emotions visually, this can be good and bad.
 * I'd like to know how you like feedback and try to follow that.
 * I tend to find receiving good feedback a bit embarrasing.
-* I welcome feedback that might be construed as negative. I will admit it might take me time to process some times.
+* I welcome feedback that might be construed as negative, but I will admit it might take me time to process some times.
 
 ## Meetings
 
