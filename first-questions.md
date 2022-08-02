@@ -8,6 +8,7 @@ Right now:
 
 Getting to know each other:
 
+- Tell me about your story: how did you get here?
 - What makes you grumpy?
 - How will I know when you are grumpy?
 - How do you like feedback?
