@@ -6,8 +6,8 @@ Congratulations and apologies for reporting to me. This is a outline of some of 
 
 ## Communication
 
-* Message me any time on Slack. If I'm around I'll answer. I do not have slack notifications on, so don't feel bad about it.
-* I have a strict line between work and not work. If it's urgent, page me: `.pager trigger andymckay`.
+* Message me any time on Slack. If I'm around I'll answer. I do not have slack notifications on my phone.
+* I have a strict line between work and not work. If it's urgent, text me.
 * If I send you something out of hours or on a weekend I'm not expecting a reply unless I explicitly say so.
 * I take vacations, you should too. When I'm on vacation I **usually** don't work at all.
 * I will try and adapt to how you would like to communicate. 
@@ -21,7 +21,7 @@ Congratulations and apologies for reporting to me. This is a outline of some of 
 * I bias towards shipping code and maybe having mistakes over being more cautions.
 * The only caveat to the above is understanding the risks of what could go wrong shipping. Understanding the risk behind changes and decisions, informs our deployment speed.
 * I value incremental correctness and gradually improving a solution over big bang development.
-* I'm totally bought into the growth mindset.
+* I want to be part of a team shipping cool stuff.
 
 ## Feedback
 
@@ -36,3 +36,4 @@ Congratulations and apologies for reporting to me. This is a outline of some of 
 * If relevant I want a meeting to have working notes that everyone in the meeting can collaborate on.
 * I like clear purpose and action items coming out of the meeting.
 * I might reject a meeting that doesn't have some of those features.
+* I suggest people vote with their feet, if a meeting is not useful to you don't go.
