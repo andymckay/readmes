@@ -11,3 +11,7 @@ Favourite:
 * Music: Radiohead
 
 My last name is pronounced Mac Eye, but I'm easy.
+
+I think the pinnacle of engineering is a racing road bicycle. Nothing extra, easy to use, seemingly simple but amazingly sophisticated with a long engineering history. The most efficient thing for transforming donuts into transport.
+
+![62643f44-6ddf-463e-b343-ba10d8da7ffb_0I0S5FDI1C+PROFILE](https://user-images.githubusercontent.com/74699/196241324-c709cc6f-1c92-4812-b342-a66290b49646.png)
