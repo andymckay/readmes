@@ -8,6 +8,7 @@ Right now:
 
 Getting to know each other:
 
+- Let me tell you about my story, if you don't already know.
 - Tell me about your story: how did you get here?
 - What makes you grumpy?
 - How will I know when you are grumpy?
@@ -15,10 +16,10 @@ Getting to know each other:
 - How do you prefer to receive recognition?
 - How do you learn new things?
 - What can I do to help you learn new things?
-- What makes 1:1 the most valuable to you?
 
 The future:
 
+- What makes 1:1 the most valuable to you?
 - What are your goals for the next 3 months?
-- What are your goals for this year?
+- What are your longer term goals, over the next year or so?
 - What do you need from your manager?
