@@ -2,7 +2,7 @@ Congratulations and apologies for reporting to me. This is a outline of some of 
 
 * I'm British but live in Canada and have for 20+ years.
 * I can quote lots of British "humour" like Monty Python and Douglas Adams. I'm sorry.
-* See https://github.com/andymckay/readmes/blob/master/about-me.md for more.
+* See [about-me](https://github.com/andymckay/readmes/blob/master/about-me.md) for more.
 
 ## Communication
 
