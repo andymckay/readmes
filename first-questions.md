@@ -10,8 +10,7 @@ Getting to know each other:
 
 - Let me tell you about my story, if you don't already know.
 - Tell me about your story: how did you get here?
-- What makes you grumpy?
-- How will I know when you are grumpy?
+- What makes you grumpy and how will I know when you are grumpy?
 - How do you like feedback?
 - How do you prefer to receive recognition?
 - How do you learn new things?
