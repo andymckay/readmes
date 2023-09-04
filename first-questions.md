@@ -9,11 +9,9 @@ Right now:
 Getting to know each other:
 
 - Let me tell you about my story, if you don't already know.
-- Tell me about your story: how did you get here?
+- Tell me about your story, how did you get here?
 - What makes you grumpy and how will I know when you are grumpy?
 - How do you like feedback?
-- How do you prefer to receive recognition?
-- How do you learn new things?
 - What can I do to help you learn new things?
 
 The future:
