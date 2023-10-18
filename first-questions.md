@@ -1,3 +1,5 @@
+These are the first questions I ask in a 1:1, usually.
+
 Right now:
 
 - How should I pronounce your name?
